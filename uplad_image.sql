@@ -38,14 +38,11 @@ END blob_to_file;
 /
 
 /*============Create Table============*/
-
 CREATE TABLE PRODUCT_INFO
 (
     ID NUMBER PRIMARY KEY,
     NAME VARCHAR2(50),
     dep_no NUMBER,
-    
-
 );
 
 
